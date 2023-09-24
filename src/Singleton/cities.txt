@@ -1,0 +1,12 @@
+Tokyo
+370000000
+Delhi
+30000000
+Shanghai
+27000000
+Mumbai
+20000000
+Beijing
+21000000
+Cairo
+20000000
